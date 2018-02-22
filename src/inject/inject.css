@@ -2,6 +2,7 @@
     z-index: 99;
     margin-top: 15px;
     padding: 15px 10px;
+    padding-left: 0;
 }
 
 .rlinks_title {
@@ -9,7 +10,7 @@
 }
 
 ul#rlinks_holder {
-    padding-top: 10px;
+    padding: 10px 0;
 }
 
 li.rlinks_content {
