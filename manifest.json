@@ -1,6 +1,6 @@
 {
   "name": "Reddit lazy link finder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Extension for lazy redditors to find links in a thread",
   "homepage_url": "http://xupisco.net",
