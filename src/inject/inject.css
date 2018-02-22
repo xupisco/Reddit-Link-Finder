@@ -1,0 +1,43 @@
+#rlinks_popup {
+    z-index: 99;
+    margin-top: 15px;
+    padding: 15px 10px;
+}
+
+.rlinks_title {
+    font-weight: 700;
+}
+
+ul#rlinks_holder {
+    padding-top: 10px;
+}
+
+li.rlinks_content {
+    padding-bottom: 2px;
+    margin-top: 2px;
+    border-bottom: 1px dashed #f1f1f1
+}
+
+li.rlinks_content:last-child {
+    border-bottom: 0
+}
+
+.rlinks_table {
+}
+
+.rlinks_table thead {
+    font-weight: 600;
+}
+
+.rlinks_table td {
+    padding: 2px;
+    padding-right: 10px;
+    max-width: 600px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.rlinks_score {
+    font-size: 100%;
+}
